@@ -1,0 +1,22 @@
+{
+  "name": "anomalith-exploration-toolkit",
+  "displayName": "ANOMALITH Exploration Toolkit",
+  "programType": "exploration-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Exploration notes",
+    "Session profiles",
+    "Reference groups"
+  ],
+  "topics": [
+    "anomalith-exploration-toolkit",
+    "anomalith-tools",
+    "anomalith-menu",
+    "anomalith-settings",
+    "anomalith-configs",
+    "anomalith-exploration-notes",
+    "anomalith-session-profiles"
+  ]
+}
